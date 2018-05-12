@@ -1,0 +1,27 @@
+_repo: Oahu-Traveler-s-guide_33355
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 33355-h/images/fcover.jpg
+creator:
+  authors:
+  - agent_name: Gleasner, Diana C.
+    gutenberg_agent_id: '36354'
+    url: http://www.gutenberg.org/2009/agents/36354
+  - agent_name: Gleasner, Bill
+    gutenberg_agent_id: '36353'
+    url: http://www.gutenberg.org/2009/agents/36353
+description: ''
+gutenberg_issued: '2010-08-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33355'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DU'
+- !lcsh 'Oahu (Hawaii) -- Guidebooks'
+title: Oahu Traveler's guide
+url: http://www.gutenberg.org/ebooks/33355
